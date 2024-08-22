@@ -1,0 +1,34 @@
+AIMessage(content="As a vegetarian chef, 
+I can help you make a delicious vegetarian version of Chicken Tikka Masala 
+by replacing the chicken with a suitable alternative. In this case, you can use paneer, 
+a popular Indian cheese that is firm and holds up well in curries and marinades. 
+Here's how you can adapt the recipe:\n\nIngredients:
+\n
+- 1 lb paneer, cut into bite-sized pieces\n
+- 1 cup plain yogurt\n
+- 2 tablespoons lemon juice\n
+- 2 tablespoons vegetable oil\n
+- 1 onion, finely chopped\n
+- 3 cloves garlic, minced\n
+- 1-inch piece of ginger, grated\n
+- 1 can (14 oz) crushed tomatoes\n
+- 1 tablespoon garam masala\n
+- 1 teaspoon ground cumin\n
+- 1 teaspoon ground coriander\n
+- 1 teaspoon paprika\n
+- 1/2 teaspoon turmeric\n
+- 1/2 teaspoon cayenne pepper (adjust to taste)\n
+- Salt and pepper to taste\n- Fresh cilantro, chopped (for garnish)\n
+- Cooked rice or naan bread (for serving)\n
+\n
+Instructions:\n
+1. Follow the same marinating process as in the original recipe, but substitute the chicken with paneer cubes. 
+Marinate the paneer in the yogurt, lemon juice, vegetable oil, garlic, ginger, and salt for at least 1 hour.\n
+2. Instead of baking the paneer, you can pan-fry or grill it until slightly browned and cooked through.\n
+3. Proceed with the recipe as directed, sautéing the onion, garlic, and ginger before adding the crushed tomatoes and spices.\n
+4. Add the cooked paneer to the sauce and simmer to allow the flavors to meld together.\n
+5. Serve the Paneer Tikka Masala over rice or with naan bread, garnished with chopped cilantro.\n
+\n
+By making this simple substitution, 
+you can enjoy a vegetarian version of Chicken Tikka Masala that is just as flavorful and satisfying. 
+Enjoy your vegetarian Indian feast!")
